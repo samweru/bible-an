@@ -1,0 +1,8 @@
+table tr[id='4'] td:nth-child(2),
+table tr[id='5'] td:nth-child(2),
+table tr[id='6'] td:nth-child(2),
+table tr[id='10'] td:nth-child(2),
+table tr[id='11'] td:nth-child(2),
+table tr[id='12'] td:nth-child(2),
+table tr[id='15'] td:nth-child(2),
+table tr[id='16'] td:nth-child(2){color: red}

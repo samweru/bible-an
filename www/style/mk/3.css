@@ -1,0 +1,13 @@
+table tr[id='3'] td:nth-child(2),
+table tr[id='4'] td:nth-child(2),
+table tr[id='5'] td:nth-child(2),
+table tr[id='23'] td:nth-child(2),
+table tr[id='24'] td:nth-child(2),
+table tr[id='25'] td:nth-child(2),
+table tr[id='26'] td:nth-child(2),
+table tr[id='27'] td:nth-child(2),
+table tr[id='28'] td:nth-child(2),
+table tr[id='29'] td:nth-child(2),
+table tr[id='33'] td:nth-child(2),
+table tr[id='34'] td:nth-child(2),
+table tr[id='35'] td:nth-child(2){color: red}
